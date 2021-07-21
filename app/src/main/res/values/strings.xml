@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Launcher</string>
+    <string name="upload_message">Images will be uploaded to the fileshare</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="upcoming_events">Upcoming Events</string>
+
+    <string name="err_package_not_found">Application not installed</string>
+
+    <string name="image_upload_channel_name">Image Upload Channel</string>
+    <string name="image_upload_channel_description">Channel for image upload notifications</string>
+</resources>
